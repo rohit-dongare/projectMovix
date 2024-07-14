@@ -2,11 +2,12 @@
 
 # Project Images
 
-Here are some images related to the project:
+Here are some project images:
 
-- ![Image 1](https://github.com/rohit-dongare/chat-app/blob/main/IMG_20240714_152104.jpg)
-- ![Image 2](https://github.com/rohit-dongare/chat-app/blob/main/IMG_20240714_152140.jpg)
-- ![Image 3](https://github.com/rohit-dongare/chat-app/blob/main/IMG_20240714_152205.jpg)
+- ![Image 1](https://github.com/rohit-dongare/projectMovix/blob/main/IMG_20240714_152104.jpg)
+- ![Image 2](https://github.com/rohit-dongare/projectMovix/blob/main/IMG_20240714_152140.jpg)
+- ![Image 3](https://github.com/rohit-dongare/projectMovix/blob/main/IMG_20240714_152205.jpg)
+
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
