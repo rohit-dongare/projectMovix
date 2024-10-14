@@ -1,7 +1,7 @@
 Movix
 Movix is a movie and TV show discovery platform designed to provide users with an easy way to browse, search, and explore movies and TV shows. The website delivers a rich and dynamic user experience by showcasing popular, trending, and upcoming titles, with detailed information on each movie or show. 
 
-[Website Link Here](https://project-movix.vercel.app/)
+[Website Link Here:] (https://project-movix.vercel.app/)
 
 Features:
 Search Movies and TV Shows: Users can search for movies and TV shows by name and instantly retrieve results with all relevant information.
